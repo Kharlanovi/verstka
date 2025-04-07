@@ -1,4 +1,4 @@
 #!/bin/bash
-cd /var/www/api
-source .venv/bin/activate
-/usr/bin/python server.py
+cd /var/www/localhost/server/
+source "./.venv/bin/activate"
+python ./server.py
