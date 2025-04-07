@@ -1,0 +1,46 @@
+body {
+    background: #8d8b84;
+    margin: 0;
+}
+header, nav{
+    height: 50px;
+}
+.navbar {
+    list-style-type: none;
+    height: 100%;
+    margin: 0 auto;
+    padding: 0;
+    background-color: #666666;
+    display: block;
+}
+
+.navbar-item {
+    float: left;
+
+}
+
+.navbar-item a {
+    display: block;
+    padding: 14px 16px;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.navbar-item a:hover {
+    background-color: rgba(255, 255, 255, 0.267);
+}
+
+.inform {
+    margin-top:15px;
+    box-shadow: 1px 1px 7px 1px #000000;
+    background-color: bisque;
+    border: 2px solid black;
+    width: 350px;
+}
+
+p {
+    color: #333333;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+    color: rgb(8, 66, 8);
+}
