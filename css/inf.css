@@ -44,3 +44,8 @@ p {
     font-size: 18px;
     color: rgb(8, 66, 8);
 }
+button {
+    background: #8d8b84;
+    border: none;
+    cursor: pointer;
+}
